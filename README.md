@@ -10,18 +10,9 @@
 - PalTrack.dev — bias-tracking for the media age
 - Infra tooling for ruthless automation
 
-## Principles
-- Silence > Noise
-- Precision > Hype
-- Execution > Excuses
-
-**Location:** Encrypted Coordinates  
-**Mode:** Always Two Moves Ahead ♟️
 
 ---
 
-> Some ship apps. I architect outcomes.  
-> Some push code. I push leverage.
 
 ---
 
@@ -35,4 +26,4 @@
 Too focused to be found. Too calculated to crash.
 
 
-**Logs End Here.**
+
