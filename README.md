@@ -1,6 +1,6 @@
 # Second Chances. First Shots.
 
-> Builder. Operator. Ghost in the system.
+> Builder. 
 
 ---
 
