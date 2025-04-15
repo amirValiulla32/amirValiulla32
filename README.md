@@ -1,16 +1,38 @@
-## Hi there 👋
+# Second Chances. First Shots.
 
-<!--
-**amirValiulla32/amirValiulla32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Builder. Operator. Ghost in the system.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Engineering
+- Software Engineering Intern @ BoyCat.io
+- DevOps pipelines built to outlast downtime
+- PalTrack.dev — bias-tracking for the media age
+- Infra tooling for ruthless automation
+
+## Principles
+- Silence > Noise
+- Precision > Hype
+- Execution > Excuses
+
+**Location:** Encrypted Coordinates  
+**Mode:** Always Two Moves Ahead ♟️
+
+---
+
+> Some ship apps. I architect outcomes.  
+> Some push code. I push leverage.
+
+---
+
+## Featured Projects
+- [PalTrack](#) — real-time media bias detection using AI
+- [Infra Scripts](#) — reusable DevOps automation for AWS/Terraform
+- [Terminal Portfolio](#) — personal site built with hacker noir aesthetics
+
+---
+
+Too focused to be found. Too calculated to crash.
+
+
+**Logs End Here.**
