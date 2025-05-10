@@ -17,12 +17,12 @@
 
 ### Toolbelt
 
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-000?style=flat&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=00FFFF)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=flat&logo=terraform&logoColor=00FFFF)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat&logo=amazon-aws&logoColor=00FFFF)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=00FFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat&logo=github-actions&logoColor=00FFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=00FFFF)
 
 ---
 
