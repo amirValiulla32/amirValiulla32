@@ -17,12 +17,12 @@
 
 ### Toolbelt
 
-![Python](https://img.shields.io/badge/-Python-090909?style=flat&logo=python)
-![Terraform](https://img.shields.io/badge/-Terraform-090909?style=flat&logo=terraform)
-![AWS](https://img.shields.io/badge/-AWS-090909?style=flat&logo=amazon-aws)
-![Linux](https://img.shields.io/badge/-Linux-090909?style=flat&logo=linux)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-090909?style=flat&logo=github-actions)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat&logo=github-actions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
