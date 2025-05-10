@@ -40,4 +40,8 @@
 
 ---
 
-> 
+
+
+![Terminal](https://img.shields.io/badge/Terminal-Aesthetic-000?style=flat&logo=gnometerminal&logoColor=00FFFF)
+![Ghost](https://img.shields.io/badge/Ghost_Mode-Online-000?style=flat&logoColor=00FFFF)
+![Offline](https://img.shields.io/badge/Social_Media-Off-000?style=flat&logoColor=00FFFF)
