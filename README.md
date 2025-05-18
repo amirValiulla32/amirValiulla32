@@ -9,7 +9,7 @@
 ###  About
 
 - Computer Science @ CSUF
-- Current intern [BoyCat.io](https://boycat.io)
+- Current intern @[BoyCat.io](https://boycat.io)
 - AWS + Terraform + Python | DevSecOps enthusiast
 - Building tools that matter — bias detection, automation, and secure infrastructure
 - Creating in silence, shipping with intention
