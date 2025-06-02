@@ -29,7 +29,6 @@
 ###  In the Lab
 
 >  Currently refining core projects. Repo updates coming soon.  
->  Focused on building foundational systems before public hype.
 
 ---
 
