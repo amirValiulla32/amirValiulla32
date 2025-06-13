@@ -1,17 +1,17 @@
+# Amir Valiulla
 
+**Builder | DevOps & Cloud Infra | Cybersecurity**
 
-**Too focused to be found. Too calculated to crash.**
-
->  Builder |  DevOps & Cloud Infra | Cybersecurity | 
+_Focused, strategic, and always evolving._
 
 ---
 
-###  About
+### About
 
-- Computer Science @ CSUF
-- Current intern @[BoyCat.io](https://boycat.io)
-- AWS + Terraform + Python | DevSecOps enthusiast
-- Building tools that matter — bias detection, automation, and secure infrastructure
+-  Computer Science @ CSUF  
+-  Current Intern at [BoyCat.io](https://boycat.io)  
+-  AWS + Terraform + Python | DevSecOps Enthusiast  
+-  Building tools that matter — bias detection, automation, and secure infrastructure  
 
 ---
 
@@ -26,19 +26,17 @@
 
 ---
 
-###  In the Lab
+### In the Lab
 
->  Currently refining core projects. Repo updates coming soon.  
+> Currently refining core projects. Repo updates coming soon.
 
 ---
 
-###  Contact
+### Contact
 
--  **amirvaliulla32@gmail.com**
-- [amirvaliulla.com](https://amirvaliulla.com) (coming soon)
+-  **amirvaliulla32@gmail.com**  
+-  [amirvaliulla.com](https://amirvaliulla.com) *(coming soon)*
 
 ---
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=amirValiulla32.amirValiulla32)
-
-
