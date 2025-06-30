@@ -11,7 +11,6 @@ _Focused, strategic, and always evolving._
 -  Computer Science @ CSUF  
 -  Current Intern at [BoyCat.io](https://boycat.io)  
 -  AWS + Terraform + Python | DevSecOps Enthusiast  
--  Building tools that matter — bias detection, automation, and secure infrastructure  
 
 ---
 
