@@ -34,7 +34,7 @@ _Focused, strategic, and always evolving._
 ### Contact
 
 -  **amirvaliulla32@gmail.com**  
--  [amirvaliulla.com](https://amirvaliulla.com) *(coming soon)*
+-  [amirvaliulla.com](https://amirvaliulla.com) 
 
 ---
 
