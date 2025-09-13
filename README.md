@@ -1,4 +1,5 @@
 # Amir Valiulla
+ [amirvaliulla.com](https://amirvaliulla.com) 
 
 **Builder | DevOps & Cloud Infra | Cybersecurity**
 
@@ -34,7 +35,6 @@ _Focused, strategic, and always evolving._
 ### Contact
 
 -  **amirvaliulla32@gmail.com**  
--  [amirvaliulla.com](https://amirvaliulla.com) 
 
 ---
 
