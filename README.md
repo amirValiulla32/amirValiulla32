@@ -9,8 +9,7 @@ _Focused, strategic, and always evolving._
 
 ### About
 
--  Computer Science @ CSUF  
--  Interning at [boycat.io](https://boycat.io)  
+-  Computer Science @ CSUF   
 -  AWS + Terraform + Python | DevSecOps Enthusiast  
 
 ---
