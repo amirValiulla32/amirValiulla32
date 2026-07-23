@@ -9,7 +9,7 @@ _Focused, strategic, and always evolving._
 
 ### About
 
--  Computer Science @ CSUF   
+ 
 -  AWS + Terraform + Python | DevSecOps Enthusiast  
 
 ---
