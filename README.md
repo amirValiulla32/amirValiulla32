@@ -1,4 +1,4 @@
-on a journey to becoming a farmer/shepard, asap. 
+on a journey to become a farmer, or a shepard, or both... asap. 
 
 
 
