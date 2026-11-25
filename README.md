@@ -9,5 +9,8 @@ bearBNB, in Japan..... coming soon
 reach out to me at: amir@silvrllc.com for further inquiries 🙂
 
 
-in the meantime, I'm building out Business Banking @Fasset, and Digital Privacy Products @Boycat
+in the meantime, I'm building out Business Banking @Fasset, and Digital Privacy Products @Boycat.
 
+
+
+I also build random stuff I find useful, will start keeping a log with the deployed products soon. Ideally on my website whenever I get time to refresh it. 
